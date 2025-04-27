@@ -3,8 +3,6 @@
 A secure and efficient URL shortening service built with Java and Spring Boot. This application allows users to convert long URLs into shorter, manageable links while ensuring safety and reliability.​
 Features
 
-    🔒 Input Validation: Ensures that submitted URLs are valid and safe.
-
     🔗 Short URL Generation: Generates unique short codes for each long URL.
 
     🛡️ Security Measures: Implements protections against common vulnerabilities like open redirects.
